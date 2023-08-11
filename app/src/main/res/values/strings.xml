@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HorseGame</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name="turn_player">Turno del Jugador</string>
+    <string name="move_piece">Mover Pieza</string>
+    <string name="invalid_move">Movimiento Inválido</string>
+    <string name="premium">Haz click aquí para quitar anuncios</string>
+    <string name="level">Nivel</string>
+    <string name="draw">Empate</string>
+    <string name="resign">Renunciar</string>
+    <string name="restart">Reiniciar</string>
+    <string name="select_piece">Seleccionar Pieza</string>
+    <string name="select_destination">Seleccionar Destino</string>
+    <string name="piece_moved">Pieza Movida</string>
+    <string name="piece_captured">Pieza Capturada</string>
+    <string name="promotion">Promoción de Peón</string>
+    <string name="select_promotion_piece">Seleccionar Pieza de Promoción</string>
+    <string name="winner">¡Ganador!</string>
+    <string name="draw_offer">Oferta de Empate</string>
+</resources>

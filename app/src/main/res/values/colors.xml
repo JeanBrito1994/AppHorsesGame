@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#99FFFFFF</color>
+
+    <color name="pastelColor1">#A4C3B2</color>
+    <color name="pastelColor2">#F5E1DA</color>
+    <color name="pastelColor3">#F3D8C0</color>
+    <color name="pastelColor4">#E6B89C</color>
+    <color name="pastelColor5">#EDBB8A</color>
+    <color name="pastelColor6">#FFD700</color>
+    <color name="pastelColor7">#FFAC81</color>
+    <color name="pastelColor8">#FFD3B5</color>
+    <color name="pastelColor9">#FFAAA6</color>
+    <color name="pastelColor10">#FFDDD2</color>
+    <color name="pastelColor11">#B5EAD7</color>
+    <color name="pastelColor12">#9DE0AD</color>
+    <color name="pastelColor13">#84A98C</color>
+    <color name="pastelColor14">#F4E1E1</color>
+    <color name="pastelColor15">#F9D6E1</color>
+    <color name="pastelColor16">#FFB6B9</color>
+    <color name="pastelColor17">#E8D0A9</color>
+    <color name="pastelColor18">#E2D58B</color>
+    <color name="pastelColor19">#C9ADA7</color>
+    <color name="pastelColor20">#B5EAD7</color>
+
+    <color name="strongColor1">#FF5733</color>
+    <color name="strongColor2">#FFC300</color>
+    <color name="strongColor3">#FF6F61</color>
+    <color name="strongColor4">#D32F2F</color>
+    <color name="strongColor5">#9C27B0</color>
+    <color name="strongColor6">#673AB7</color>
+    <color name="strongColor7">#3F51B5</color>
+    <color name="strongColor8">#039BE5</color>
+    <color name="strongColor9">#00BCD4</color>
+    <color name="strongColor10">#009688</color>
+    <color name="strongColor11">#4CAF50</color>
+    <color name="strongColor12">#8BC34A</color>
+    <color name="strongColor13">#CDDC39</color>
+    <color name="strongColor14">#FFEB3B</color>
+    <color name="strongColor15">#FFC107</color>
+    <color name="strongColor16">#FF9800</color>
+    <color name="strongColor17">#FF5722</color>
+    <color name="strongColor18">#795548</color>
+    <color name="strongColor19">#9E9E9E</color>
+    <color name="strongColor20">#607D8B</color>
+</resources>

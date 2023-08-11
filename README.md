@@ -1,2 +1,2 @@
 # AppHorsesGame
-App of tutorial Kotlin
+Este repositorio contiene una app de un juego básico utilizado en un curso de Kotlin
